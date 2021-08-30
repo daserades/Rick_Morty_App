@@ -1,0 +1,14 @@
+com/rick_morty_app/MainActivity.java
+ com.rick_morty_app.MainActivity
+com/rick_morty_app/MainApplication.java
+ com.rick_morty_app.MainApplication
+ com.rick_morty_app.MainApplication$1
+com/rick_morty_app/BuildConfig.java
+ com.rick_morty_app.BuildConfig
+com/rick_morty_app/ReactNativeFlipper.java
+ com.rick_morty_app.ReactNativeFlipper
+ com.rick_morty_app.ReactNativeFlipper$1
+ com.rick_morty_app.ReactNativeFlipper$2
+ com.rick_morty_app.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
